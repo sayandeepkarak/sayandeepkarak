@@ -5,7 +5,7 @@
         src="https://komarev.com/ghpvc/?username=sayandeepkarak&label=Profile%20views&color=0e75b6&style=flat"
         alt="sayandeepkarak" /> </p>
 
-- 🌱 I’m currently learning **React Native, Typescript, Asp.net**
+- 🌱 I’m currently learning **React Native, Next.Js, Asp.net**
 
 - 💬 Ask me about **React, Javascript, C#**
 
