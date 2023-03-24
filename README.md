@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.Js, Asp.net**
 
-- 💬 Ask me about **React, Javascript, C#**
+- 💬 Ask me about **React, Javascript, Express**
 
 - 📫 How to reach me **sayandeepkarak.official@gmail.com**
 
