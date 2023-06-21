@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, Java**
 
-- 💬 Ask me about **Javascript, React, React native**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **sayandeepkarak.official@gmail.com**
 
