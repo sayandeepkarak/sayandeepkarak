@@ -92,5 +92,5 @@
         </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novamaster-git&show_icons=true&locale=en&layout=compact" alt="sayandeepkarak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayandeepkarak&show_icons=true&locale=en&layout=compact" alt="sayandeepkarak" /></p>
 
