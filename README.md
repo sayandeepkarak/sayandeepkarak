@@ -1,6 +1,6 @@
 <h1 align="center">Sayandeep Karak</h1>
 <p align="center"><b>Full-Stack Developer · India</b></p>
-<h3 align="center">Building fast, scalable web products</h3>
+<h3 align="center">Building fast, scalable web applications</h3>
 
 <p align="center">
   <a href="https://sayandeepkarak.vercel.app" target="_blank">
@@ -25,7 +25,7 @@ I’m **Sayandeep Karak**, a full-stack developer who enjoys turning complex ide
 
 I work across **frontend architecture and backend APIs**, with a strong focus on performance, scalability, and developer experience. I like systems that stay readable as they grow — whether that’s a UI flow, an SDK, or a service layer.
 
-I don’t chase trends. I build things that last.
+I focus on building systems that stay reliable as they grow.
 
 ---
 
@@ -56,8 +56,11 @@ I don’t chase trends. I build things that last.
 
 ## Selected Work
 
+- **Zoolki**
+  AI-assisted Chrome extension that extracts structured data from natural input and helps autofill complex web forms with confidence-based review.
+
 - **QuickSnap**  
-  A lightweight, framework-agnostic Web Component for webcam-based profile image capture, built with production use in mind.
+  A lightweight, framework-agnostic Web Component for webcam-based profile image capture.
 
 - **Portfolio**  
   Personal space for projects, experiments, and ideas.  
