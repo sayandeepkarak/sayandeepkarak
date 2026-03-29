@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 ---
 
 ## About
@@ -38,15 +37,18 @@ I focus on building systems that stay reliable as they grow.
 
 **Backend**
 - Node.js, Express.js
-- GraphQL
+- GraphQL, Socket.IO
 
 **Data**
 - MongoDB, MySQL, PostgreSQL
 
 **UI & State**
 - Tailwind CSS, Sass
-- Quasar, Vuetify
-- Pinia, Redux
+- Pinia, Redux, Zustand
+
+**DevOps & Infrastructure**
+- Docker, Nginx
+- Jenkins, CI/CD Pipelines
 
 **Tools**
 - Git, Linux
@@ -59,9 +61,7 @@ I focus on building systems that stay reliable as they grow.
 - **Zoolki**
   AI-assisted Chrome extension that extracts structured data from natural input and helps autofill complex web forms with confidence-based review.
 
-- **QuickSnap**  
-  A lightweight, framework-agnostic Web Component for webcam-based profile image capture.
+- **QuickSnap** A lightweight, framework-agnostic Web Component for webcam-based profile image capture.
 
-- **Portfolio**  
-  Personal space for projects, experiments, and ideas.  
+- **Portfolio** Personal space for projects, experiments, and ideas.  
   → https://sayandeepkarak.vercel.app
