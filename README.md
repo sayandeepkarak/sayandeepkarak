@@ -47,8 +47,9 @@ I focus on building systems that stay reliable as they grow.
 - Pinia, Redux, Zustand
 
 **DevOps & Infrastructure**
-- Docker, Nginx
+- Docker, Kubernetes
 - Jenkins, CI/CD Pipelines
+- Nginx
 
 **Tools**
 - Git, Linux
