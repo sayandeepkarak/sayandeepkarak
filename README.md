@@ -61,8 +61,10 @@ I focus on building systems that stay reliable as they grow.
 
 - **Zoolki**
   AI-assisted Chrome extension that extracts structured data from natural input and helps autofill complex web forms with confidence-based review.
+  → [Visit Zoolki](https://chromewebstore.google.com/detail/zoolki-%E2%80%93-ai-form-autofill/oaddcfhaefangibbccifoaelohabnjej?utm_source=item-share-cb)
 
 - **QuickSnap** A lightweight, framework-agnostic Web Component for webcam-based profile image capture.
+  → [Visit QuickSnap](https://www.npmjs.com/package/quicksnap)
 
 - **Portfolio** Personal space for projects, experiments, and ideas.  
-  → https://sayandeepkarak.vercel.app
+  → [Visit Portfolio](https://sayandeepkarak.vercel.app)
